@@ -8,11 +8,11 @@ function Footer() {
           <p>©2024 Developed By: Harinath</p>
         </div>
         <div className="text-sm">
-          <a href="#" className="mx-2">Privacy & Cookies</a>
-          <a href="#" className="mx-2">Terms of use</a>
-          <a href="#" className="mx-2">Advertise</a>
-          <a href="#" className="mx-2">Data Providers</a>
-          <a href="#" className="mx-2">Feedback</a>
+          <button  className="mx-2">Privacy & Cookies</button>
+          <button  className="mx-2">Terms of use</button>
+          <button  className="mx-2">Advertise</button>
+          <button  className="mx-2">Data Providers</button>
+          <button  className="mx-2">Feedback</button>
         </div>
       </div>
     </footer>
