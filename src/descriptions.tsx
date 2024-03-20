@@ -4,7 +4,7 @@ import { FaArrowUp ,FaWind} from "react-icons/fa";
 
 import {BiHappy} from "react-icons/bi"
 import {MdCompress,MdOutlineWaterDrop} from "react-icons/md"
-import { Description,Card,DescriptionCardIcon,DescriptionSmall} from './style';
+// import { Description,Card,DescriptionCardIcon,DescriptionSmall} from './style';
 
 
 const Descriptions=({weather,units}:{weather:any, units:any} )=> {
