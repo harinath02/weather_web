@@ -61,5 +61,5 @@ else{
 }
 };
 
-
+// 
 export { getFormattedWeatherData };
